@@ -14,7 +14,7 @@
     <field name="SYMBOL_LIST">R_50</field>
     <field name="TRADETYPECAT_LIST">digits</field>
     <field name="TRADETYPE_LIST">matchesdiffers</field>
-    <field name="TYPE_LIST">DIGITDIFF</field>
+    <field name="TYPE_LIST">DIGITMATCH</field>
     <field name="CANDLEINTERVAL_LIST">60</field>
     <field name="TIME_MACHINE_ENABLED">FALSE</field>
     <field name="RESTARTONERROR">TRUE</field>
